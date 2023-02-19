@@ -1,0 +1,25 @@
+button{
+    width: 30px;
+    height: 20px;
+    border: none;
+}
+
+.btn1{
+    background-color: #81ecec;
+}
+
+.btn2{
+    background-color: #a29bfe;
+}
+
+.btn3{
+    background-color: #55efc4;
+}
+
+.btn4{
+    background-color: #6c5ce7;
+}
+
+.btn5{
+    background-color: #0984e3;
+}
